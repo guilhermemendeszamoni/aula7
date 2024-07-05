@@ -98,3 +98,27 @@ footer p{
     margin: 0;
     color: #504E42;
 }
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+thead {
+    background-color: #574CBA;
+    color: #FADC28;
+}
+
+.t1 {
+    border: 1px solid #574CBA;
+    padding: 8px;
+}
+
+.t2 {
+    background-color: #FADC28;
+}
+
+.t3 {
+    background-color: #fff;
+}
